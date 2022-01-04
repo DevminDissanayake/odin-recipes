@@ -1,0 +1,16 @@
+
+#pepper {
+    background-color: black;
+    color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.salt {
+    background-color: brown;
+    color: rgb(102, 255, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: bolder;
+}
